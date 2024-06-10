@@ -1,0 +1,4 @@
+M -> add missionary to boat
+C -> add cannibal to boat
+Space -> travel with boat
+key_down -> empty the boat
